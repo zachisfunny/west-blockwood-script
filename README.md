@@ -1,1 +1,0 @@
-# west-blockwood-script
